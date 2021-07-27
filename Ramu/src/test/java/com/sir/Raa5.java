@@ -33,7 +33,7 @@ public class Raa5 {
 			
 			@BeforeMethod
 			public void setup(){
-				log.info("****************************** Starting test cases execution  *****************************************");
+				log.info("****************************** Starting  cases execution  *****************************************");
 
 				WebDriverManager.chromedriver().setup();
 				driver = new ChromeDriver(); 
