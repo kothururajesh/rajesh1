@@ -81,7 +81,7 @@ public class Raa5 {
 				@AfterMethod
 				public void tearDown(){
 					driver.quit();
-					log.info("****************************** Browser is closed *****************************************");
+					log.info("****************************** Browser is closed  ok*****************************************");
 
 					
 				}
