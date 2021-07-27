@@ -1,0 +1,23 @@
+22:24:10,554  INFO com.sir.Raa5<strong>{1}</strong>:36 - ****************************** Starting test cases execution  *****************************************
+22:24:26,116  INFO com.sir.Raa5<strong>{1}</strong>:40 - launching chrome broswer
+22:24:45,218  INFO com.sir.Raa5<strong>{1}</strong>:47 - entering application URL
+22:24:45,220  WARN com.sir.Raa5<strong>{1}</strong>:48 - Hey this just a warning message
+22:24:45,221 FATAL com.sir.Raa5<strong>{1}</strong>:49 - hey this is just fatal error message
+22:24:45,223 DEBUG com.sir.Raa5<strong>{1}</strong>:50 - this is debug message
+22:24:45,265  INFO com.sir.Raa5<strong>{1}</strong>:54 - ****************************** starting test case *****************************************
+22:24:45,268  INFO com.sir.Raa5<strong>{1}</strong>:55 - ****************************** freeCrmTitleTest *****************************************
+22:24:45,309  INFO com.sir.Raa5<strong>{1}</strong>:58 - login page title is--->#1 Free CRM customer relationship management software cloud
+22:24:45,338  INFO com.sir.Raa5<strong>{1}</strong>:62 - ****************************** ending test case *****************************************
+22:24:45,339  INFO com.sir.Raa5<strong>{1}</strong>:63 - ****************************** freeCrmTitleTest *****************************************
+22:24:46,838  INFO com.sir.Raa5<strong>{1}</strong>:84 - ****************************** Browser is closed *****************************************
+22:24:46,848  INFO com.sir.Raa5<strong>{1}</strong>:36 - ****************************** Starting test cases execution  *****************************************
+22:24:53,180  INFO com.sir.Raa5<strong>{1}</strong>:40 - launching chrome broswer
+22:25:11,053  INFO com.sir.Raa5<strong>{1}</strong>:47 - entering application URL
+22:25:11,055  WARN com.sir.Raa5<strong>{1}</strong>:48 - Hey this just a warning message
+22:25:11,061 FATAL com.sir.Raa5<strong>{1}</strong>:49 - hey this is just fatal error message
+22:25:11,062 DEBUG com.sir.Raa5<strong>{1}</strong>:50 - this is debug message
+22:25:14,070  INFO com.sir.Raa5<strong>{1}</strong>:70 - ****************************** starting test case *****************************************
+22:25:14,071  INFO com.sir.Raa5<strong>{1}</strong>:71 - ****************************** freemCRMLogoTest *****************************************
+22:25:14,072  INFO com.sir.Raa5<strong>{1}</strong>:74 - ****************************** ending test case *****************************************
+22:25:14,073  INFO com.sir.Raa5<strong>{1}</strong>:75 - ****************************** freemCRMLogoTest *****************************************
+22:25:15,671  INFO com.sir.Raa5<strong>{1}</strong>:84 - ****************************** Browser is closed *****************************************
